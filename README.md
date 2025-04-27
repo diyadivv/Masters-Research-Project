@@ -4,6 +4,9 @@
 
 ## Link to preview the application : https://v0-masters-research-project.vercel.app/
 
+<img width="1464" alt="Screenshot 2025-04-25 at 11 35 06 pm" src="https://github.com/user-attachments/assets/3007bc07-2565-437b-b626-927655ef6681" />
+
+
 ---
 
 ## 🌟 Overview  
