@@ -42,8 +42,14 @@ FutureWorks Solutions is an **Employability Analytics Application** designed to 
 
 ## 📊 Job Posting Analysis Dashboard  
 
-![Job Posting Analysis](https://pplx-res.cloudinary.com/image/upload/v1743042752/user_uploads/FnABZLLfQdMjbuZ/Job-Posting-Analysis.jpg)
+![Job Posting Analysis](https://pplx-res.cloudinary.com/image/upload/v1743042752/user_uploads/FnABZLLfQdMjbuZ/Job-Posting-Analysis.jpg)]
 
+---
+
+<img width="1464" alt="Screenshot 2025-04-30 at 7 20 10 pm" src="https://github.com/user-attachments/assets/dd9fda4b-c5dc-4c01-8aa0-440e255cf760" />
+
+
+---
 Key Metrics from the Dashboard:  
 - **Total Job Postings**: 119K  
 - **Most Common Industry**: Staffing and Recruiting  
