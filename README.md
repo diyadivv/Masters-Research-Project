@@ -163,5 +163,5 @@ For inquiries or collaboration opportunities:
 
 ----
 
-### 🌟 Empowering Careers with Data!! 🚀
+### 🌟 Empowering Careers with Data! 🚀
 
